@@ -6,6 +6,7 @@ function App() {
         <h2>LAB-1</h2>
         <p>Ad Soyad : İshak KARATAŞ</p>
         <p>Ogrenci No : 235541073</p>
+        <p>Yazılım Mühendisliği Bölümü</p>
       </div>
 
   )
